@@ -1,0 +1,13 @@
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\bin\Release\Calculator.exe
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\bin\Release\Calculator.xml
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\ResolveAssemblyReference.cache
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\Calculator.Resources.resources
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\Calculator.vbproj.GenerateResource.Cache
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\Calculator.exe
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\Calculator.xml
+D:\ICT\Level 3\Unit 14\Calculator\Calculator\obj\Release\Calculator.pdb
+E:\ICT\Level 3\Unit 14\Calculator-P2\Calculator\obj\Release\Calculator.exe
+E:\ICT\Level 3\Unit 14\Calculator-P2\Calculator\obj\Release\Calculator.xml
+E:\ICT\Level 3\Unit 14\Calculator-P2\Calculator\obj\Release\Calculator.pdb
